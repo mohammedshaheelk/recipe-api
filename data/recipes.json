@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1763353443252,
+    "title": "Pasta",
+    "ingredients": [
+      "pasta",
+      "sauce"
+    ],
+    "instructions": "Mix and cook",
+    "cookTime": "N/A",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1763353651148,
+    "title": "Veg Biryani",
+    "ingredients": "Rice, spices, vegetables",
+    "instructions": "Cook everything together",
+    "cookTime": "40 minutes",
+    "difficulty": "medium"
+  }
+]
